@@ -1,0 +1,16 @@
+{
+  "name": "assignment_1_code",
+  "version": "1.0.0",
+  "description": "A BMI Calculator web application built with Node.js, Express.js, HTML, and CSS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
